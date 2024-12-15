@@ -13,7 +13,7 @@ public class creditcard {
     public creditcard() {
     }
     public String getCardNumber() {
-        return cardNumber;
+        return cardNumberr;
     }
     public void setCardNumber(String cardNumber) {
         this.cardNumber = cardNumber;
